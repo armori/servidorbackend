@@ -1,0 +1,5 @@
+Para hacer un update con put una vez programado,
+
+en postman hacemos un get para conseguir una id (nos da la de Gas Natural),
+
+después hacemos un put a localhost:3000/proveedor/[id]
